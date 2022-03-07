@@ -1,4 +1,4 @@
-# Pharma_Paracetamol_Detecht1) 
+# Pharma_Paracetamol_Detecht
 
 1) Install python 3.6 or above.
 
